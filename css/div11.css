@@ -1,0 +1,24 @@
+#wrapper {
+    width:935px;
+    border: 6px yellow solid;
+    height: 200px;
+ 
+}
+#first {
+    border: 2px red solid;
+    width:100px;
+    float:left;
+    background-color: red;
+    height:198px;
+}
+#second {
+    
+    width:830px;
+    float:left;
+    height:201px;
+     background-color: black;
+}
+
+#clear {
+    clear: both;
+}

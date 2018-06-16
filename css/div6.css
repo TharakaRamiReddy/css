@@ -1,0 +1,22 @@
+#wrapper {
+    width:700px;
+    clear:both;
+}
+#first {
+    background-color:red;
+    width:200px;
+    float:left;
+    height:100px;
+}
+#second {
+    background-color:blue;
+    width:300px;
+    float:left;
+    height:600px;
+}
+#third {
+    background-color:#bada55;
+    width:200px;
+    float:left;
+    height:400px;
+}

@@ -1,0 +1,19 @@
+
+div.photosList {
+
+    display:inline-block;
+    width:90%;
+    text-align:center;
+    list-style-type:none;
+    background-color: #b0e0e6;  
+}
+
+div.photosList div {
+    border:1px solid black;
+    width:80px;
+    height:80px;
+    display:inline-block;
+    margin: 4px 2px;
+    text-align:center;
+
+}

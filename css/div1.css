@@ -1,0 +1,35 @@
+.main {
+	height:10%;
+	width:100%;
+	background-color: red;
+}
+
+.cont {
+	width:100%;
+	clear:both;
+}
+
+.part1 {
+	width:30%;
+	background-color: green;
+	float:left;
+	height: 70%;
+}
+
+
+.part2 {
+	width:70%;
+	background-color: blue;
+	float:right;
+	height:70%;
+}
+
+#clear {
+    clear: both;
+}
+
+
+#footer {
+  background-color:#fcc;
+  height:10%;
+}
